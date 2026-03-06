@@ -1,3 +1,7 @@
+--index-url https://pypi.tuna.tsinghua.edu.cn/simple
+--extra-index-url https://pypi.org/simple
+--only-binary=:all:
+--timeout=120
 numpy==1.26.4
 scipy==1.11.4
 scikit-learn==1.4.1.post1
